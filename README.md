@@ -1,4 +1,4 @@
-# twitterauth
+# twitteroauth
 This is a simple twitter authentication system using passport and expressjs
 
 Steps To Run
